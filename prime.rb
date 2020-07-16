@@ -1,4 +1,3 @@
-def prime?(num)
- num.each do |num|
-  if num.prime?
-   
+def prime?(number)
+  start = 2
+  if number > 1 
